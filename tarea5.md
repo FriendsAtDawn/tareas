@@ -1,4 +1,4 @@
-# Tarea 4.2
+# Tarea 5
 
 # Código Civil. Cosas.
 
@@ -26,5 +26,3 @@ Entonces, respondiendo:
 Sí, Juan tiene un derecho sobre el inmueble. Es poseedor en los términos del código y, con todo lo que hizo, está en condiciones de alegar usucapión.
 
 Sí, podría convertirse en propietario. Pero no alcanza con “decirlo”: debería promover una acción judicial de usucapión para que un juez reconozca esa situación y ordene inscribirlo en el Registro de la Propiedad a su nombre.
-
-En pocas palabras: en los hechos, Juan ya es dueño; en los papeles todavía no.
